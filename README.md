@@ -8,7 +8,7 @@ To get started, simply clone the repository and open the `index.html` file in yo
 
 ## Project Demo
 
-You can see a live demo of the project [here](https://example.com/calculator).
+You can see a live demo of the project [here](https://vishal-dcode.github.io/Pure-CSS-Calculator/).
 
 ![Alt text](https://i.ibb.co/VtCp4BG/preview.png)
 
